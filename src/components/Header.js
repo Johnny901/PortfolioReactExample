@@ -13,8 +13,8 @@ export default class Header extends Component {
         </h1>
         <p>Photographer and Web Designer.</p>
         <img
-          src="/w3images/man_smoke.jpg"
-          alt="boy"
+          src="https://www.w3schools.com/w3images/man_smoke.jpg"
+          alt="man"
           className="w3-image"
           width="992"
           height="1108"

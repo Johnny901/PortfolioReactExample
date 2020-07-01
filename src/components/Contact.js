@@ -6,7 +6,7 @@ export default class Contact extends Component {
     return (
       <div className="w3-padding-64 w3-content w3-text-grey" id="contact">
         <h2 className="w3-text-light-grey">Contact Me</h2>
-        <hr style="width: 200px;" className="w3-opacity" />
+        <hr style={{ width: "200px" }} classname="w3-opacity" />
 
         <div className="w3-section">
           <p>

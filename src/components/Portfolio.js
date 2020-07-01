@@ -10,15 +10,36 @@ export default class Portfolio extends Component {
         {/* Grid for photos */}
         <div className="w3-row-padding" style={{ margin: "0 -16px" }}>
           <div className="w3-half">
-            <img src="/w3images/wedding.jpg" style={{ width: "100%" }} />
-            <img src="/w3images/rocks.jpg" style={{ width: "100%" }} />
-            <img src="/w3images/sailboat.jpg" style={{ width: "100%" }} />
+            <img
+              src="https://www.ivyboarding.com/w3template/w3images/wedding.jpg"
+              style={{ width: "100%" }}
+            />
+            <img
+              src="https://www.ivyboarding.com/w3template/w3images/rocks.jpg"
+              style={{ width: "100%" }}
+            />
+            <img
+              src="https://www.w3schools.com/w3images/sailboat.jpg"
+              style={{ width: "100%" }}
+            />
           </div>
           <div className="w3-half">
-            <img src="/w3images/underwater.jpg" style={{ width: "100%" }} />
-            <img src="/w3images/chef.jpg" style={{ width: "100%" }} />
-            <img src="/w3images/wedding.jpg" style={{ width: "100%" }} />
-            <img src="/w3images/p6.jpg" style={{ width: "100%" }} />
+            <img
+              src="https://www.ivyboarding.com/w3template/w3images/underwater.jpg"
+              style={{ width: "100%" }}
+            />
+            <img
+              src="https://www.ivyboarding.com/w3template/w3images/chef.jpg"
+              style={{ width: "100%" }}
+            />
+            <img
+              src="https://www.ivyboarding.com/w3template/w3images/wedding.jpg"
+              style={{ width: "100%" }}
+            />
+            <img
+              src="https://www.ivyboarding.com/w3template/w3images/p6.jpg"
+              style={{ width: "100%" }}
+            />
           </div>
           {/* End photo grid */}
         </div>
